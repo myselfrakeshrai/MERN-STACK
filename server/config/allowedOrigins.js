@@ -3,3 +3,4 @@ const allowedOrigins = [
     'https://www.example.com',
     'https://example.com'
 ]
+module.exports = allowedOrigins
