@@ -1,4 +1,4 @@
-import { link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import React from "react";
 
@@ -24,7 +24,7 @@ export const Public = () => {
         <p>By Rakesh Rai</p>
     </main>
     <footer>    
-        <link to="/login">Employee Login</link>
+        <Link to="/login">Employee Login</Link>
     </footer>
     </section>
   );
