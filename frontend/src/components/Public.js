@@ -23,7 +23,7 @@ export const Public = () => {
         <br/>
         <p>By Rakesh Rai</p>
     </main>
-    <footer>    
+    <footer  className="dash-footer"  >    
         <Link to="/login">Employee Login</Link>
     </footer>
     </section>
